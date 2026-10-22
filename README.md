@@ -37,6 +37,7 @@ con interfaces claras y una buena organización de la información.
 
 | Área | Tecnologías |
 |---|---|
+| Mobile | Flutter, Dart |
 | Frontend | HTML, CSS, JavaScript, TypeScript, Angular, React |
 | Backend | Node.js, Express |
 | Escritorio | Python, Flet |
